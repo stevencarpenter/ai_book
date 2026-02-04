@@ -1,0 +1,39 @@
+# Core scientific computing
+numpy
+matplotlib
+pandas
+pillow
+scipy
+scikit-learn
+
+# PyTorch ecosystem
+torch
+torchvision
+
+# Visualization
+plotly
+opencv-python
+
+# Utilities
+tqdm
+requests
+tabulate
+rich
+
+# Typing
+jaxtyping
+einops
+
+# Transformers & LLMs
+transformers
+datasets
+accelerate
+transformer-lens
+sae-lens
+
+# Diffusion models
+diffusers
+smalldiffusion
+
+# Dimensionality reduction
+umap-learn
